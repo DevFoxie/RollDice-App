@@ -1,5 +1,5 @@
 # RollDice-App
-* Petite application web de jet de dés..
+* Petite application web de jet de dés...
 * HTML / CSS / JS.
 * Preview dispo sur GithubPages.
 * Enjoy.
